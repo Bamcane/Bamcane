@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello.
+
+- I'm willing to give for Teeworlds.
+- Teeworlds has the value it deserves.
+- I'll make mods for Teeworlds forever.
 
 <!--
 **ErrorDreemurr/ErrorDreemurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
