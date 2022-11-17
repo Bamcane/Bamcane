@@ -4,4 +4,4 @@
 - Teeworlds has the value it deserves.
 - I'll make mods for Teeworlds forever.
 
-![ResetDustPower's GitHub stats](https://github-readme-stats.vercel.app/api?username=ResetDustPower&show_icons=true&theme=algolia)
+![RemakePower's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemakePower&show_icons=true&theme=algolia)
