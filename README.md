@@ -1,6 +1,10 @@
 
 
-- Teeworlds forever.
+<div align="center">
+  <b>
+    Teeworlds forever.
+  </b>
+</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Bamcane&show_icons=true&theme=algolia">
