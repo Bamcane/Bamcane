@@ -8,4 +8,6 @@
 <img src="https://raw.githubusercontent.com/Bamcane/Bamcane/main/Screenshot_20240309_184805.png">
 </div>
 
-Go! Go! STAR☆T☆RAIN!
+<div align="center">
+  Go! Go! STAR☆T☆RAIN!
+</div>
