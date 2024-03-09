@@ -1,7 +1,7 @@
 
 
 <h2 align="center">
-  Teeworlds forever!
+  Teeworlds Forever!
 </h2>
 
 <div align="center">
