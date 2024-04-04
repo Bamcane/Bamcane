@@ -11,7 +11,3 @@
 <h2 align="center">
   Go! Go! STAR☆T☆RAIN!
 </h2>
-
-<div align="center">
-<img src="https://github.com/Bamcane/Bamcane/blob/main/Screenshot_20240309_184805.png">
-</div>
