@@ -11,9 +11,11 @@
 
 <a align="center">
   是一名初二生, Teeworlds模组开发为主. 最常写C/C++, 其次Python, 其他会写一点的语言: HTML, Go, Lua.
+
   An eight grade middle school student that mainly code teeworlds mods. Use C/C++ most, Python secondly, others: HTML, Go, and Lua
 
   英语水平似乎不咋滴.
+
   Bad English.
 </a>
 
