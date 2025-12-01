@@ -18,3 +18,7 @@
 <img src="https://streak-stats.demolab.com/?user=Bamcane&theme=vue">
 <img src="https://streak-stats.demolab.com/?user=Bamcane&locale=zh_Hans&theme=vue">
 </div>
+
+<h2 align="center">
+  Keep it simple and easy.
+</h2>
